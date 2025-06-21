@@ -1,0 +1,19 @@
+type: environment.insomnia.rest/5.0
+name: My Custom Environment
+meta:
+  id: wrk_3da9f49cf2e849b89ae488b853bd322a
+  created: 1750331008567
+  modified: 1750331956633
+  description: ""
+environments:
+  name: Base Environment
+  meta:
+    id: env_a873c81ce6dd46996b499f744e9ba8fe97f11289
+    created: 1750331008570
+    modified: 1750360383982
+    isPrivate: false
+  data:
+    base_url: http://127.0.0.1:8000/api
+    customer_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzUwNDQ2NzA5LCJpYXQiOjE3NTAzNjAzMDksImp0aSI6ImExZWE5ZDI3MWJjNDQ1YmE4MTFjODBjYTkxZDVjZmU2IiwidXNlcl9pZCI6Nn0.8fduZCv0uR5mRI7RUDt49pcF8rMMnX4FXwujed3nIMM
+    manager_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzUwNDQ2NzQxLCJpYXQiOjE3NTAzNjAzNDEsImp0aSI6IjRlOTM4MjU2ZWI3NzRlMzY5ZTUzNWRlYWYxM2M3YTZhIiwidXNlcl9pZCI6Mn0.8_1Kzaj-PXmz8gEtaUqPt0Nnci8dY8Uw2P0h98SYWQ4
+    delivery_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzUwNDQ2Nzc0LCJpYXQiOjE3NTAzNjAzNzQsImp0aSI6IjI4YWZhODFkZWNjMjRlYzdiZmI0NTc0OWIyNTk3ODFkIiwidXNlcl9pZCI6NX0.4PlR7c_71heDQGipP6mQlw85BAoMIiF9P7jJL6umjsg
